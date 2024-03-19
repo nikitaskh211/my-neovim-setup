@@ -23,7 +23,7 @@ return require('packer').startup(function(use)
   use {'akinsho/toggleterm.nvim', tag = '*', config = function()
     require("toggleterm").setup()
   end}
-  use {'hrsh7th/nvim-cmp' ,'hrsh7th/cmp-nvim-lsp'}
+  use {'hrsh7th/nvim-cmp' ,'hrsh7th/cmp-nvim-lsp', 'L3MON4D3/LuaSnip', 'saadparwaiz1/cmp_luasnip', 'rafamadriz/friendly-snippets'}
   -- use 'foo1/bar1.nvim'
   -- use 'foo2/bar2.nvim'
 
