@@ -79,6 +79,11 @@ _G.packer_plugins = {
     path = "C:\\Users\\nikit\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\LuaSnip",
     url = "https://github.com/L3MON4D3/LuaSnip"
   },
+  ["cmake-tools.nvim"] = {
+    loaded = true,
+    path = "C:\\Users\\nikit\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\cmake-tools.nvim",
+    url = "https://github.com/Civitasv/cmake-tools.nvim"
+  },
   ["cmp-nvim-lsp"] = {
     loaded = true,
     path = "C:\\Users\\nikit\\AppData\\Local\\nvim-data\\site\\pack\\packer\\start\\cmp-nvim-lsp",
